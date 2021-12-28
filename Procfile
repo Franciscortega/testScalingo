@@ -1,1 +1,1 @@
-web: gunicorn growy.wsgi —-log-file -
+web: gunicorn scalingo.wsgi —-log-file -
